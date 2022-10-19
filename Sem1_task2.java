@@ -1,3 +1,4 @@
+// Задача 2. Реализовать алгоритм пирамидальной сортировки (HeapSort)
 public class Sem1_task2 {
 
     public void heapSort(int[] arr)
